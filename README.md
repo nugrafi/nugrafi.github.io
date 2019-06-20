@@ -16,3 +16,8 @@ blog nugrafi
 
 ## lanjut
 1. Frontend 
+
+
+
+## link belajar
+- [https://roadmap.sh/frontend](https://roadmap.sh/frontend)
