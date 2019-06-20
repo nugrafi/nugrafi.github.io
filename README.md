@@ -1,4 +1,4 @@
-# nugrafi.github.io
+# [nugrafi.github.io](https://github.com/nugrafi)
 blog nugrafi
 
 # Urutan belajar Pemrograman WEB
